@@ -3,7 +3,7 @@
 Aspiring Gen AI Engineer Looking for an Opportunity
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                  
 - 🌱 I’m currently learning Gen AI
-- 👯 I’m looking to collaborate on Python
+- 👯 I’m looking to collaborate on Python, Machine Learning, Deep Learning
 - 🤔 I’m looking for Opportunity To showcase My skills
 - 💬 Ask me about Tech
 - 📫 How to reach me :
